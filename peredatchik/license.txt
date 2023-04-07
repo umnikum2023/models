@@ -1,0 +1,11 @@
+Model Information:
+* title:	Передатчик_сигнала_УМНИКУМ_1
+* source:	https://sketchfab.com/3d-models/1-bd5406e734b6460b84cd616fdb88ce6e
+* author:	umnikum_final (https://sketchfab.com/umnikum_final)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Передатчик_сигнала_УМНИКУМ_1" (https://sketchfab.com/3d-models/1-bd5406e734b6460b84cd616fdb88ce6e) by umnikum_final (https://sketchfab.com/umnikum_final) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

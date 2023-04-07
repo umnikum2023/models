@@ -1,0 +1,11 @@
+Model Information:
+* title:	Приемник_сигнала_УМНИКУМ
+* source:	https://sketchfab.com/3d-models/8d607c62790845e684b27a2302fcf627
+* author:	umnikum_final (https://sketchfab.com/umnikum_final)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Приемник_сигнала_УМНИКУМ" (https://sketchfab.com/3d-models/8d607c62790845e684b27a2302fcf627) by umnikum_final (https://sketchfab.com/umnikum_final) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
